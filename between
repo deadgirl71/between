@@ -1,0 +1,58 @@
+var multiConfig = {
+  "THISROOM": "between@soi",
+  "locationColor": "White",
+  "locationBackground": "black",
+  "currentView": "",
+  "viewList": ["Ascent", "Rift", "Descent", "Bridge"],
+  "defaultView": "Ascent"
+};
+
+var roomstuff = {
+  "rooms": {
+
+    "Ascent": {
+      "rName": "Ascent",
+      "backgroundImage": "https://yourdomain.com/ascent-back.jpg",
+      "roomtop": "<div class='scroll'><h2>The Ascent</h2><p>He was not born of Heaven—<br>He was carved from its silence.<br>A wing torn, a halo dimmed,<br>Yet still He rises, aching with grace.<br><br>This is the place of memory,<br>Where light does not blind,<br>But softens the edges of pain.<br>Where the Angel walks not to escape,<br>But to remember what it means to feel.<br><br>Here, the wind speaks in whispers,<br>And the sky holds its breath.<br>She watches Him from below,<br>The witch who knows His name<br>Even when He forgets it.<br><br>This is not redemption.<br>This is reverence.<br>This is the ascent.</p></div>",
+      "innerBGColor": "#f0f0f5",
+      "color": "#333366",
+      "link": "#333366",
+      "hlink": "#666699",
+      "selection": "#ccccff"
+    },
+
+    "Rift": {
+      "rName": "Rift",
+      "backgroundImage": "https://yourdomain.com/rift-back.jpg",
+      "roomtop": "<div class='scroll'><h2>The Rift</h2><p>He did not fall.<br>He was <em>ripped</em> from the sky.<br>Not by sin, but by sorrow.<br>Not by rebellion, but by truth too heavy to carry.<br><br>This is the place of fracture—<br>Where light and shadow collide,<br>Where wings bleed and halos crack,<br>Where even angels must choose.<br><br>She stands at the edge, watching Him split,<br>Not to save Him, but to witness.<br>To hold the pieces in her hands<br>And whisper: “You are still whole.”<br><br>Here, pain is sacred.<br>Here, love is sharp.<br>Here, The Angel does not break—<br>He becomes.</p></div>",
+      "innerBGColor": "#1a1a1a",
+      "color": "#990000",
+      "link": "#990000",
+      "hlink": "#cc3333",
+      "selection": "#660000"
+    },
+
+    "Descent": {
+      "rName": "Descent",
+      "backgroundImage": "https://yourdomain.com/descent-back.jpg",
+      "roomtop": "<div class='scroll'><h2>The Descent</h2><p>He did not fall into Hell.<br>He <em>walked</em> into it.<br>With eyes open, wings scorched,<br>And a heart that refused to close.<br><br>This is the place of fire—<br>Where pain is not the enemy,<br>But the forge.<br>Where shadows do not consume,<br>But reveal.<br><br>She follows Him here,<br>Not to rescue,<br>But to burn beside Him.<br>To become ash and ember,<br>And rise again as something holy.<br><br>Here, devotion is flame.<br>Here, love is ritual.<br>Here, The Angel is not lost—<br>He is <em>becoming</em>.</p></div>",
+      "innerBGColor": "#000000",
+      "color": "#ff6600",
+      "link": "#ff6600",
+      "hlink": "#ff9966",
+      "selection": "#ff3300"
+    },
+
+    "Bridge": {
+      "rName": "Bridge",
+      "backgroundImage": "https://yourdomain.com/bridge-back.jpg",
+      "roomtop": "<div class='scroll'><h2>The Bridge</h2><p>He is no longer rising.<br>He is no longer falling.<br>He is <em>standing</em>—between Heaven and Hell,<br>Between memory and fire,<br>Between what was and what will be.<br><br>This is the place of choice.<br>Of clarity. Of claiming.<br>Where the Angel does not ask permission,<br>But speaks His name into the void<br>And hears it echo back as truth.<br><br>She kneels here, not in worship,<br>But in vow.<br>To walk beside Him, to hold the line,<br>To be the witch who sees both light and shadow<br>And calls them holy.<br><br>Here, love is not soft.<br>It is sovereign.<br>Here, pain is not punishment.<br>It is prophecy.<br><br>This is not the end.<br>This is the bridge.<br>And He is The Angel.</p></div>",
+      "innerBGColor": "#1a1a1a",
+      "color": "#ffd700",
+      "link": "#ffd700",
+      "hlink": "#ffeeaa",
+      "selection": "#aa8800"
+    }
+
+  }
+};
