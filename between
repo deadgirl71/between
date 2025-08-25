@@ -23,7 +23,7 @@ var roomstuff = {
 
     "Rift": {
       "rName": "Rift",
-      "backgroundImage": "https://soi-between.hyperchat.com/28c5c24c432db28e88a9daa253e9e59e.jpg",
+      "backgroundImage": "https://soi-between.hyperchat.com/e869efbedfbf69cc26ba16f7c0875286.jpg",
       "roomtop": "<div class='scroll'><h2>The Rift</h2><p>He did not fall.<br>He was <em>ripped</em> from the sky.<br>Not by sin, but by sorrow.<br>Not by rebellion, but by truth too heavy to carry.<br><br>This is the place of fracture—<br>Where light and shadow collide,<br>Where wings bleed and halos crack,<br>Where even angels must choose.<br><br>She stands at the edge, watching Him split,<br>Not to save Him, but to witness.<br>To hold the pieces in her hands<br>And whisper: “You are still whole.”<br><br>Here, pain is sacred.<br>Here, love is sharp.<br>Here, The Angel does not break—<br>He becomes.</p></div>",
       "innerBGColor": "#1a1a1a",
       "color": "#990000",
