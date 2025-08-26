@@ -1,0 +1,34 @@
+/* ===============================
+   Feature Toggles
+   =============================== */
+TurnOn_AvSwitch = 1;
+TurnOn_SendButton = 1;
+TurnOn_RemoveUndo = 1;
+TurnOn_hiThere = 1;
+TurnOn_fakeEditor = 1;
+TurnOn_fixedImgSize = 1;
+TurnOn_dropDownFav = 1;
+TurnOn_trueMulti = 1;
+
+/* ===============================
+   Custom Text Labels
+   =============================== */
+sendToBtn = "Send To";
+helloMsg1 = "Hello, ";
+helloMsg2 = " and welcome!";
+avatarLink = "AVIS";
+imageMaxWidth = "500";
+
+/* ===============================
+   Editor Options
+   =============================== */
+TurnOn_AlwaysShowEditor = 0;
+TurnOn_imageBar = 0;
+TurnOn_Fonts = 0;
+
+/* ===============================
+   Script Loader (Required)
+   =============================== */
+// This line must be placed in your room’s “Text For Bottom of Room” field:
+<script src="https://soiroom.hyperchat.com/codeexam/scripts/roomImprovement.js"></script>
+pt> ========================================================= That's it. You should be done! ========================================================= */
